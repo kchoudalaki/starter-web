@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple git project. ADDING A LINE FOR REBASING EXAMPLE.
+This is a simple git project. ADDING A LINE FOR REBASING EXAMPLE. then more changes from myfeaturebranch too.
 
 ## Introduction
 
