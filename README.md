@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples to get to know g
 Blah blah
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training.
