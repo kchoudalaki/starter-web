@@ -18,5 +18,4 @@ Blah blah
 
 ### Copyright
 
-2014 Git.Training.
-123123123
+2020 Git.Training.
