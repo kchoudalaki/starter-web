@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple git project. 
+This is a simple git project. ADDING A LINE FOR REBASING EXAMPLE.
 
 ## Introduction
 
