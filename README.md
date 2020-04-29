@@ -16,6 +16,8 @@ Blah blah
 
 ## How to Contribute
 
+Please for this repository.
+
 ### Copyright
 
 2020 Git.Training.
